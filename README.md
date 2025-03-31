@@ -1,7 +1,8 @@
 # wordpress-checker
 just a wordpress checker make sure to use this format: url:user:passwd
 # how to install:
-git clone 
+git clone
+
 cd wordpress-checker
 pip3 install requests
 or
