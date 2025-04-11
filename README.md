@@ -9,7 +9,7 @@ pip3 install requests
 
 or
 
-pip3 install --break-system-packages
+pip3 install requests --break-system-packages
 
 python3 checker.py
 
